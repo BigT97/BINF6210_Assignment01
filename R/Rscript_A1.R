@@ -1,3 +1,11 @@
+
+######BINF6210 - Assignment 1: Madelin Stueck ----
+
+#Original Author: Thomas Furtado
+#Edited by: Madelin Stueck
+#added intermediate dataframes, investigated variables + cleaned up some plot visualization
+
+
 rm(list = ls())
 
 #### Section 1. Necessary Packages----
