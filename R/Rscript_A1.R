@@ -3,7 +3,7 @@
 
 #Original Author: Thomas Furtado
 #Edited by: Madelin Stueck
-#added intermediate dataframes, investigated variables + cleaned up some plot visualization
+#added intermediate dataframe, investigated variables + cleaned up some plot visualization
 
 
 rm(list = ls())
